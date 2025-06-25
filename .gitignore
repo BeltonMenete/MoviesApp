@@ -1,0 +1,31 @@
+## Visual Studio / Rider ###
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+## Build outputs ###
+bin/
+obj/
+artifacts/
+
+## Rider ###
+.idea/
+
+## User-specific files ###
+*.env.local
+*.env.*.local
+.env.*
+
+## VS Code ###
+.vscode/
+
+## Logs ###
+*.log
+logs/
+
+## User secrets ###
+secrets.json
+
+## Published output ###
+publish/
